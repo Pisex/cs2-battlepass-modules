@@ -1,4 +1,7 @@
 # MODULES
+You can buy the plugin here - https://discord.com/invite/g798xERK5Y
+Купить плагин можно тут - https://discord.com/invite/g798xERK5Y
+
 - LR Progress<br>
 Event when gaining experience<br>
 Ивент который срабатывает при получении опыта
