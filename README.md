@@ -26,15 +26,15 @@ string param - currency
 int param - count
 ```
 
-- Play Time
+- Play Time<br>
 An event triggered every minute<br>
-Ивент вызываемый каждую минуту<br>
+Ивент вызываемый каждую минуту
 ```
 event - playtime
 int param - team
 ``` 
 
-- VIP FREE PASS
+- VIP FREE PASS<br>
 Allows VIP players to use a paid battle pass during their active VIP status<br>
 Позволяет VIP-игрокам использовать платный боевой пропуск во время действия VIP-статуса<br>
 ```
